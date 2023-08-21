@@ -23,7 +23,8 @@ This is for storing all cloud architecture diagram
 
 
 
-![image](https://github.com/Ankitpatel1234/cloud-architecture-diagram/assets/99385543/07436209-be64-4aa5-918f-dab739ea286f)
+![image](https://github.com/Ankitpatel1234/cloud-architecture-diagram/assets/99385543/fd4698fe-93cb-4534-b952-bd1e0119f9eb)
+
 
 
 
